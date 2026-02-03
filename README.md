@@ -15,7 +15,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/pashapush/go-credui"
+	"github.com/rospatent/go-credui"
 )
 
 func main() {
